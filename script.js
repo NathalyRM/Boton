@@ -24,7 +24,7 @@ var coordenadas = () => {
 btnyes.addEventListener('click', () => {
     // alert('Ya sabias que me querias recargar :3 ');
     Swal.fire(
-        'Ya sabia que me amabas ♡',
+        'gracias mi amer ♡',
         '',
         'success'
     )
