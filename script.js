@@ -9,7 +9,7 @@ btnno.addEventListener('mouseenter', () => {
 })
 
 btnno.addEventListener("click", () => {
-    alert("Lo lograste");
+    alert("Lo lograste :c");
 })
 
 var coordenadas = () => {
@@ -24,7 +24,7 @@ var coordenadas = () => {
 btnyes.addEventListener('click', () => {
     // alert('Ya sabias que me querias recargar :3 ');
     Swal.fire(
-        'Ya sabia que me querias recargar :3 ',
+        'Ya sabia que me amabas ♡ ',
         '',
         'success'
     )
