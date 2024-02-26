@@ -9,7 +9,7 @@ btnno.addEventListener('mouseenter', () => {
 })
 
 btnno.addEventListener("click", () => {
-    alert("Lo lograste :c");
+    alert("Te amo :c");
 })
 
 var coordenadas = () => {
